@@ -1,0 +1,25 @@
+section#main {
+        font-size: 64px;
+        text-align: center;
+        font-family: 'Waiting for the Sunrise'; /* use browser's default font as fallback */
+    }
+    section#main em { font-style: normal; text-transform: uppercase; }
+    section#main li { display: block; list-style: none; }
+    section#more {
+        font-size: 18px;
+        font-family: Cutive, serif;
+        margin: 0 12% 3em;
+    }
+    section#more strong {
+        font-weight: normal;
+        font-style: italic;
+        text-transform: uppercase;
+    }
+    p.hrule { text-align: center; }
+    div.warning {
+        text-align: center;
+        padding: 0.5em;
+        background-color: #ffff66;
+        margin-bottom: 2em;
+    }
+
